@@ -4,3 +4,7 @@
 vim.opt.fillchars = {
   eob = " ",
 }
+
+vim.g.lazyvim_picker = "telescope"
+
+-- vim.g.lazyvim_picker = "fzf"
